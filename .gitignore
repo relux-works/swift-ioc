@@ -33,3 +33,6 @@ Carthage/Build
 *.xcodeproj/
 gitrelease
 /DerivedData
+Derived/*
+!Derived/InfoPlists/
+!Derived/InfoPlists/*.plist
